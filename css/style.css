@@ -1,4 +1,10 @@
+
+
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&display=swap');
+
+
+
+/* Global Styling */
 
 body {
    line-height: 1.8;
@@ -6,5 +12,4 @@ body {
    font-size: 15px;
    font-family: 'Lato', sans-serif;
 }
-
 
