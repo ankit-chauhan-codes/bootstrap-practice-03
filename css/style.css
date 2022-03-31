@@ -48,6 +48,11 @@ section{
    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
 
+.navbar .navbar-brand{
+   font-size: 28px;
+   text-transform: uppercase;
+}
+
 .navbar .navbar-nav .nav-link{
    font-size: 15px;
    text-transform: uppercase;
