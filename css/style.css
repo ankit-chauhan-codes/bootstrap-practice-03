@@ -5,7 +5,6 @@
 
 
 /* Global Styling */
-
 body {
    line-height: 1.8;
    color: #898fa1;
@@ -42,8 +41,8 @@ section{
 /* Global Styling */
 
 
-/* Navbar */
 
+/* Navbar */
 .navbar{
    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
@@ -59,7 +58,12 @@ section{
    letter-spacing: 1px;
 }
 
-.navbar .navbar-nav .nav-link:active{
+.navbar-light .navbar-nav .nav-link.active{
    color: #E93B81;
 }
 /* Navbar */
+
+
+/* Home */
+
+/* Home */
