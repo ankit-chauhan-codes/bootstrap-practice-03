@@ -106,7 +106,8 @@ section{
 
 
 /* Services */
-#services .section-heading .border-line{
+#services .section-heading .border-line,
+#features .features-heading .border-line{
    width: 200px;
    height: 3px;
    background-color: lightgrey;
@@ -164,3 +165,23 @@ section{
    transform: scale(1.1);
 }
 /* portfolio */
+
+
+
+/* features */
+#features .icon-box{
+   width: 40px;
+   height: 40px;
+   background-color: #E93B81;
+   color: white;
+   border-radius: 50%;
+   display: flex;
+   font-size: 32px;
+   justify-content: center;
+   align-items: center;
+   flex: none;
+}
+/* features */
+
+
+
