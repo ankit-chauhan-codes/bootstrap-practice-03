@@ -184,4 +184,70 @@ section{
 /* features */
 
 
+/* team */
+.team{
+   background-color: #11245A;
+}
+
+.team h6{
+  letter-spacing: 3px;
+}
+
+.team p{
+   font-size: 18px;
+}
+
+.team .borderline{
+   width: 70px;
+   height: 2px;
+   margin: 16px auto;
+   background-color: lightgray;
+}
+
+.team .team-img img,
+.team .team-img .social-icons{
+   transition: all 0.4s ease;
+}
+.team .team-img{
+   position: relative;
+   overflow: hidden;
+}
+
+.team .team-img .social-icons{
+   background-color: #E93B81;
+   width: 100%;
+   height: 60px;
+   bottom: -60px;
+   left: 0;
+   position: absolute;
+   align-items: center;
+}
+
+.team .team-img .social-icons a{
+   width: 50px;
+   height: 50px;
+   color: white;
+   font-size: 25px;
+   border: 2px solid rgba(255, 255, 255, 0.5);
+   border-radius: 50%;
+   margin-left: 5px;
+   margin-right: 5px;
+   text-align: center;
+   justify-content: center;
+}
+
+.team .team-img .social-icons a:hover{
+   color: #E93B81;
+   background-color: white;
+}
+
+.team:hover .team-img .social-icons{
+bottom: 0;
+}
+
+.team:hover img{
+   transform: translateY(-60px);
+}
+/* team */
+
 
