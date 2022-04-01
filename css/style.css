@@ -101,6 +101,27 @@ section{
    background-color: #ce2f6e;
    color: white;
 }
-
-
 /* Home */
+
+
+
+/* Services */
+#services .section-heading .border-line{
+   width: 200px;
+   height: 3px;
+   background-color: lightgrey;
+   margin: 25px auto 60px auto;
+}
+
+#services .icon-box{
+   width: 70px;
+   height: 70px;
+   background-color: #E93B81;
+   color: white;
+   border-radius: 4px;
+   display: flex;
+   font-size: 32px;
+   justify-content: center;
+   align-items: center;
+}
+/* Services */
