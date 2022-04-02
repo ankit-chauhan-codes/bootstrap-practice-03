@@ -41,9 +41,9 @@ section{
 
 .btn{
    font-weight: 700;
-   font-size: 12px;
+   font-size: 14px;
    text-transform: uppercase;
-   padding: 18px 40px;
+   padding: 12px 40px;
    border-radius: 0;
 }
 /* Global Styling */
@@ -92,7 +92,8 @@ section{
    margin: 25px auto;
 }
 
-#home .primary-btn{
+#home .primary-btn,
+#contact .primary-btn{
    background-color: #E93B81;
    color: white;
 }
