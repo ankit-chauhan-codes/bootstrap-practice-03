@@ -290,3 +290,15 @@ bottom: 0;
    height: 36px;
 }
 /* client */
+
+
+/* contact */
+#contact form .form-control{
+   border-radius: 0;
+}
+
+#contact form .form-control:focus{
+   box-shadow: none;
+   border-color: #E93B81;
+}
+/* contact */
