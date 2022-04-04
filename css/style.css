@@ -43,7 +43,7 @@ section{
    font-weight: 700;
    font-size: 14px;
    text-transform: uppercase;
-   padding: 12px 40px;
+   padding: 16px 40px;
    border-radius: 0;
 }
 /* Global Styling */
@@ -85,11 +85,14 @@ section{
 
 #home h1{
    font-weight: 700;
+   max-width: 90%;
+   margin: 25px auto;
 }
 
 #home p{
-   max-width: 550px;
+   max-width: 600px;
    margin: 25px auto;
+   font-size: 20px;
 }
 
 #home .primary-btn,
