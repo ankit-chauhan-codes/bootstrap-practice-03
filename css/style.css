@@ -311,6 +311,12 @@ bottom: 0;
 #getstarted{
    background-color: #E93B81;
 }
+
+#getstarted .btn-two{
+   background-color: white;
+   font-size: 16px;
+   padding: 16px 40px;
+}
 /* getstarted */
 
 
@@ -350,7 +356,8 @@ bottom: 0;
    font-weight: 400;
 }
 
-.footer-top .footer-info{
+.footer-top .footer-links a,
+.footer-top .footer-info a{
    display: block;
 }
 /* footer */
